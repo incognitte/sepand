@@ -1,0 +1,8 @@
+@echo off
+Error in line 1: Missing ,
+cd c:\word\sepand
+Error in line 2: Unrecognized command verb.
+sepand /n/d25
+Error in line 3: Unrecognized command verb.
+cd \
+Error in line 4: Unrecognized command verb.
