@@ -4,9 +4,7 @@ Author: ~UnKnown~ Vahid Alimardani
 
 Uploader: Paymaan Jafari. <payman@ctools.pp.se>
 
-
-
-# Long:
+![Screenshot](https://github.com/incognitte/sepand/blob/b8bcd7b9436b29d5e7c9dedc99b1f02eef1bad93/sepand.png)
 
 
 ## Background
