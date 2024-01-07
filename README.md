@@ -1,10 +1,12 @@
-Short: SEPAND is an MS-DOS resident Farsi Font DownLoader.
-Author: UnKnown
+# SEPAND is an MS-DOS resident Farsi Font DownLoader
+
+Author: ~UnKnown~ Vahid Alimardani
+
 Uploader: Paymaan Jafari. <payman@ctools.pp.se>
 
 
 
-Long:
+# Long:
 
 
 ## Background
